@@ -1,1 +1,1 @@
-console .log('no hago nada')
+console.log('no hago nada')
